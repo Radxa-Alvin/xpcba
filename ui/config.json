@@ -1,0 +1,6 @@
+{
+    "board": "rs308",
+    "via": "adb",
+    "debug": false,
+    "cache": true
+}

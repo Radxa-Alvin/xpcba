@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=E2D16
+Comment=
+Exec=/usr/bin/python3 /home/zero/xpcba/ui/cli.py -b rs102 -s e2d16 -v local
+Icon=
+Path=
+Terminal=true
+StartupNotify=false

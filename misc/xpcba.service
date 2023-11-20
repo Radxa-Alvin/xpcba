@@ -1,0 +1,12 @@
+[Unit]
+Description=Xpcba Server
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /tmp/core/server.py
+Restart=on-failure
+RestartSec=1s
+WorkingDirectory=/tmp/core
+
+[Install]
+WantedBy=multi-user.target

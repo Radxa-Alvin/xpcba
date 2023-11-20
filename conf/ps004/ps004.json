@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "name": "WLAN Test",
+            "exec": "wlan_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "Eth Test",
+            "exec": "eth_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "Bt Test",
+            "exec": "bt_test",
+            "type": "external"
+        },
+        {
+            "name": "Cpu Test",
+            "exec": "cpu_test",
+            "type": "external"
+        },
+        {
+            "name": "DDR Test",
+            "exec": "ddr_test",
+            "type": "external",
+            "args": 4096
+        },
+        {
+            "name": "Audio Test",
+            "exec": "audio_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "Hdmi Test",
+            "exec": "hdmi_test",
+            "type": "external",
+            "auto": false
+        },
+        {
+            "name": "DP Test",
+            "exec": "dp_test",
+            "type": "external"
+        },
+        {
+            "name": "Hdmi_In Test",
+            "exec": "hdmi_in_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "UFS 128G Test",
+            "exec": "ufs_128g_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "UFS 256G Test",
+            "exec": "ufs_256g_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "UFS 512G Test",
+            "exec": "ufs_512g_test",
+            "type": "external",
+            "wait": true
+        },
+        {
+            "name": "USB Test",
+            "exec": "usb_test",
+            "type": "external",
+            "args": "3.0,3.0,3.0,3.0,3.0"
+        },
+        {
+            "name": "SD Test",
+            "exec": "sd_test",
+            "type": "external"
+        }
+    ],
+    "scripts": {
+        "bt_test": "bin/ps004/bt_test.sh",
+        "eth_test": "bin/ps004/eth0_test.sh",
+        "wlan_test": "bin/ps004/wlan_test.sh",
+        "audio_test": "bin/ps004/record_test.sh",
+        "cpu_test": "bin/ps004/cpu_test.sh",
+        "ddr_test": "bin/ps004/ddr_test.py",
+        "ufs_512g_test": "bin/ps004/ufs_512g_test.sh",
+        "ufs_256g_test": "bin/ps004/ufs_256g_test.sh",
+        "ufs_128g_test": "bin/ps004/ufs_128g_test.sh",
+        "emmc_32g_test": "bin/ps004/emmc_32g_test.sh",
+        "sd_test": "bin/ps004/sd_test.sh",
+        "usb_test": "bin/ps004/usb_test.py",
+        "hdmi_test": "bin/ps004/hdmi_test.sh",
+        "dp_test": "bin/ps004/dp_test.sh",
+        "hdmi_in_test": "bin/ps004/hdmi_in_test.sh"
+
+    },
+    "update": "2023/11/20"
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" height="80.000mm" version="1.1" width="168.000mm">
+  <rect height="80.000mm" style="fill:white" width="168.000mm"/>
+  <g id="pn-rev" style="fill:black;font-size:18pt;text-anchor:middle;" font-weight="bold">
+    <text id="pn" transform="translate(85, 35)">735-00202</text>
+    <text id="rev" transform="translate(245, 35)">Rev.1</text>
+  </g>
+  <g id="qr" transform="translate(15, 15) scale(9.0)">
+    <path transform="scale(1)" class="qrline" stroke="#000" d="M4 4.5h7m3 0h1m1 0h1m1 0h7m-21 1h1m5 0h1m1 0h2m1 0h1m2 0h1m5 0h1m-21 1h1m1 0h3m1 0h1m1 0h4m2 0h1m1 0h3m1 0h1m-21 1h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1m-21 1h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1m-21 1h1m5 0h1m3 0h1m3 0h1m5 0h1m-21 1h7m1 0h1m1 0h1m1 0h1m1 0h7m-12 1h1m1 0h1m-11 1h3m1 0h2m4 0h1m6 0h2m-20 1h1m3 0h2m2 0h3m2 0h1m1 0h1m1 0h1m1 0h2m-20 1h4m1 0h1m1 0h7m3 0h1m1 0h1m-20 1h4m2 0h1m3 0h1m1 0h2m1 0h1m1 0h2m-20 1h1m3 0h1m1 0h6m2 0h5m-11 1h3m1 0h1m1 0h1m1 0h2m1 0h2m-21 1h7m2 0h2m1 0h2m1 0h2m3 0h1m-21 1h1m5 0h1m1 0h1m1 0h1m1 0h1m4 0h4m-21 1h1m1 0h3m1 0h1m3 0h5m1 0h1m1 0h3m-21 1h1m1 0h3m1 0h1m1 0h3m3 0h2m1 0h3m-20 1h1m1 0h3m1 0h1m1 0h3m1 0h1m5 0h1m-19 1h1m5 0h1m1 0h1m1 0h2m3 0h1m-16 1h7m3 0h1m2 0h1m2 0h1m2 0h1"/>
+  </g>
+  <g transform="translate(150, 280)" font-weight="bold" id="sn">
+    <text style="fill:black;font-size:19pt;text-anchor:middle;" id="sn-text">SN: CB2128010078</text>
+  </g>
+</svg>

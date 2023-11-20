@@ -1,0 +1,11 @@
+{
+    "ddr_test": {
+        "args": 4096
+    },
+    "ufs_128g_test": {
+        "pass": true
+    },
+    "ufs_512g_test": {
+        "pass": true
+    }
+}
